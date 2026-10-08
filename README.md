@@ -1,3 +1,5 @@
+x1 hackathon winning project at https://www.bnbchain.org/en/blog/meet-the-winners-of-bnb-hack-ai-trading-agent-edition
+
 # Narrative Alpha
 
 Narrative Alpha is a fixture-backed Track 2 Strategy Skill for rotating into the strongest CMC-style market narrative. It reads bundled narrative-velocity, quote, and technical-analysis snapshots; ranks narratives by latest velocity and short-term acceleration; builds a capped market-cap-weighted basket for the leading narrative; emits reviewable strategy cards; and replays the basket against fixture prices.
