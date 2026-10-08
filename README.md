@@ -1,4 +1,4 @@
-x1 hackathon winning project at https://www.bnbchain.org/en/blog/meet-the-winners-of-bnb-hack-ai-trading-agent-edition
+x1 hackathon won project at https://www.bnbchain.org/en/blog/meet-the-winners-of-bnb-hack-ai-trading-agent-edition
 
 # Narrative Alpha
 
